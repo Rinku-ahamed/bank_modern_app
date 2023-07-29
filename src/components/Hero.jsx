@@ -1,5 +1,7 @@
+import style from "../style";
+import { discount, robot } from "../assets";
 const Hero = () => {
-  return <div>Hero</div>;
+  return <section>Hero</section>;
 };
 
 export default Hero;
